@@ -1,8 +1,6 @@
 hours = 2
-sec = 60
-min = 60
 
-time = hours * sec * min 
+time = hours * 3600 
 
 seconds = (f"2 hour(s) is {time} seconds.")
 
