@@ -2,6 +2,6 @@ hours = 2
 
 seconds = hours * 3600 
 
-time = (f"2 hour(s) is {time} seconds.")
+time = (f"2 hour(s) is {seconds} seconds.")
 
 print (time)
