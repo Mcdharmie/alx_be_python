@@ -1,4 +1,4 @@
-number = int(input(f"Enter the size of the pattern: "))
+number = int(input("Enter the size of the pattern: "))
 
 i = 0
 
